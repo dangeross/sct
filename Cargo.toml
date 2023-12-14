@@ -13,5 +13,5 @@ categories = ["network-programming", "cryptography"]
 exclude = ["/admin/"]
 
 [dependencies]
-ring = { git = "https://github.com/wasix-org/ring.git", branch = "wasix" }
+ring = { git = "https://github.com/dangeross/ring.git", branch = "wasix" }
 untrusted = "0.7.0"
